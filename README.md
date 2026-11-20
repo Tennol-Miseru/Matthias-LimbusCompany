@@ -1,5 +1,6 @@
 # Matthias-LimbusCompany
-
+<img width="3840" height="2160" alt="MatiasE" src="https://github.com/user-attachments/assets/0d0766a6-9f30-4ae0-9d09-ef30f7720bf2" />
+<img width="1920" height="1080" alt="RienMODFIn 00_03_43_52 Still004" src="https://github.com/user-attachments/assets/962c56ac-12f1-4630-9440-7436bc684b86" />
 一把层层包装的莱瓦汀，一个听见你在公屏呼唤，就会从天而降找你算账的马蒂亚斯。
 
 亲手拆开莱瓦汀的包装，在横扫、穿刺、投掷处决与大力劈砍之间切换。用四段重踏追击敌人，甚至可以破开正面举盾的防御。
