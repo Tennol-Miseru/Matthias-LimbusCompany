@@ -1,0 +1,385 @@
+{
+  "seal_hit_paper": {
+    "subtitle": "subtitles.laevatein.seal_hit_paper",
+    "sounds": [
+      {
+        "name": "laevatein:fx/seal_hit_paper/01"
+      },
+      {
+        "name": "laevatein:fx/seal_hit_paper/02"
+      },
+      {
+        "name": "laevatein:fx/seal_hit_paper/03"
+      },
+      {
+        "name": "laevatein:fx/seal_hit_paper/04"
+      },
+      {
+        "name": "laevatein:fx/seal_hit_paper/05"
+      }
+    ]
+  },
+  "seal_hit_middle": {
+    "subtitle": "subtitles.laevatein.seal_hit_middle",
+    "sounds": [
+      {
+        "name": "laevatein:fx/seal_hit_middle/01"
+      },
+      {
+        "name": "laevatein:fx/seal_hit_middle/02"
+      },
+      {
+        "name": "laevatein:fx/seal_hit_middle/03"
+      }
+    ]
+  },
+  "seal_hit_inner": {
+    "subtitle": "subtitles.laevatein.seal_hit_inner",
+    "sounds": [
+      {
+        "name": "laevatein:fx/seal_hit_inner/01"
+      },
+      {
+        "name": "laevatein:fx/seal_hit_inner/02"
+      }
+    ]
+  },
+  "shell_open_outer": {
+    "subtitle": "subtitles.laevatein.shell_open_outer",
+    "sounds": [
+      {
+        "name": "laevatein:fx/shell_open_outer/01"
+      },
+      {
+        "name": "laevatein:fx/shell_open_outer/02"
+      }
+    ]
+  },
+  "shell_open_final": {
+    "subtitle": "subtitles.laevatein.shell_open_final",
+    "sounds": [
+      {
+        "name": "laevatein:fx/shell_open_final/01"
+      }
+    ]
+  },
+  "sweep": {
+    "subtitle": "subtitles.laevatein.sweep",
+    "sounds": [
+      {
+        "name": "laevatein:fx/sweep/01"
+      },
+      {
+        "name": "laevatein:fx/sweep/02"
+      },
+      {
+        "name": "laevatein:fx/sweep/03"
+      },
+      {
+        "name": "laevatein:fx/sweep/04"
+      }
+    ]
+  },
+  "blade_slash": {
+    "subtitle": "subtitles.laevatein.blade_slash",
+    "sounds": [
+      {
+        "name": "laevatein:fx/blade_slash/01"
+      },
+      {
+        "name": "laevatein:fx/blade_slash/02"
+      },
+      {
+        "name": "laevatein:fx/blade_slash/03"
+      },
+      {
+        "name": "laevatein:fx/blade_slash/04"
+      },
+      {
+        "name": "laevatein:fx/blade_slash/05"
+      },
+      {
+        "name": "laevatein:fx/blade_slash/06"
+      },
+      {
+        "name": "laevatein:fx/blade_slash/07"
+      },
+      {
+        "name": "laevatein:fx/blade_slash/08"
+      },
+      {
+        "name": "laevatein:fx/blade_slash/09"
+      }
+    ]
+  },
+  "fire_pierce": {
+    "subtitle": "subtitles.laevatein.fire_pierce",
+    "sounds": [
+      {
+        "name": "laevatein:fx/fire_pierce/01"
+      }
+    ]
+  },
+  "heavy_finish": {
+    "subtitle": "subtitles.laevatein.heavy_finish",
+    "sounds": [
+      {
+        "name": "laevatein:fx/heavy_finish/01"
+      }
+    ]
+  },
+  "kick_1": {
+    "subtitle": "subtitles.laevatein.kick_1",
+    "sounds": [
+      {
+        "name": "laevatein:fx/kick_1/01"
+      }
+    ]
+  },
+  "kick_2": {
+    "subtitle": "subtitles.laevatein.kick_2",
+    "sounds": [
+      {
+        "name": "laevatein:fx/kick_2/01"
+      }
+    ]
+  },
+  "kick_3": {
+    "subtitle": "subtitles.laevatein.kick_3",
+    "sounds": [
+      {
+        "name": "laevatein:fx/kick_3/01"
+      }
+    ]
+  },
+  "kick_4": {
+    "subtitle": "subtitles.laevatein.kick_4",
+    "sounds": [
+      {
+        "name": "laevatein:fx/kick_4/01"
+      }
+    ]
+  },
+  "down_stomp": {
+    "subtitle": "subtitles.laevatein.down_stomp",
+    "sounds": [
+      {
+        "name": "laevatein:fx/down_stomp/01"
+      }
+    ]
+  },
+  "throw_dash_kick": {
+    "subtitle": "subtitles.laevatein.throw_dash_kick",
+    "sounds": [
+      {
+        "name": "laevatein:fx/throw_dash_kick/01"
+      }
+    ]
+  },
+  "matthias_counter": {
+    "subtitle": "subtitles.laevatein.matthias_counter",
+    "sounds": [
+      {
+        "name": "laevatein:fx/matthias_counter/01"
+      },
+      {
+        "name": "laevatein:fx/matthias_counter/02"
+      },
+      {
+        "name": "laevatein:fx/matthias_counter/03"
+      },
+      {
+        "name": "laevatein:fx/matthias_counter/04"
+      },
+      {
+        "name": "laevatein:fx/matthias_counter/05"
+      }
+    ]
+  },
+  "matthias_hurt": {
+    "subtitle": "subtitles.laevatein.matthias_hurt",
+    "sounds": [
+      {
+        "name": "laevatein:fx/matthias_hurt/01"
+      },
+      {
+        "name": "laevatein:fx/matthias_hurt/02"
+      },
+      {
+        "name": "laevatein:fx/matthias_hurt/03"
+      },
+      {
+        "name": "laevatein:fx/matthias_hurt/04"
+      },
+      {
+        "name": "laevatein:fx/matthias_hurt/05"
+      }
+    ]
+  },
+  "matthias_effort": {
+    "subtitle": "subtitles.laevatein.matthias_effort",
+    "sounds": [
+      {
+        "name": "laevatein:fx/matthias_effort/01"
+      },
+      {
+        "name": "laevatein:fx/matthias_effort/02"
+      },
+      {
+        "name": "laevatein:fx/matthias_effort/03"
+      },
+      {
+        "name": "laevatein:fx/matthias_effort/04"
+      },
+      {
+        "name": "laevatein:fx/matthias_effort/05"
+      },
+      {
+        "name": "laevatein:fx/matthias_effort/06"
+      },
+      {
+        "name": "laevatein:fx/matthias_effort/07"
+      },
+      {
+        "name": "laevatein:fx/matthias_effort/08"
+      },
+      {
+        "name": "laevatein:fx/matthias_effort/09"
+      },
+      {
+        "name": "laevatein:fx/matthias_effort/10"
+      },
+      {
+        "name": "laevatein:fx/matthias_effort/11"
+      },
+      {
+        "name": "laevatein:fx/matthias_effort/12"
+      },
+      {
+        "name": "laevatein:fx/matthias_effort/13"
+      },
+      {
+        "name": "laevatein:fx/matthias_effort/14"
+      },
+      {
+        "name": "laevatein:fx/matthias_effort/15"
+      },
+      {
+        "name": "laevatein:fx/matthias_effort/16"
+      },
+      {
+        "name": "laevatein:fx/matthias_effort/17"
+      },
+      {
+        "name": "laevatein:fx/matthias_effort/18"
+      },
+      {
+        "name": "laevatein:fx/matthias_effort/19"
+      },
+      {
+        "name": "laevatein:fx/matthias_effort/20"
+      },
+      {
+        "name": "laevatein:fx/matthias_effort/21"
+      }
+    ]
+  },
+  "matthias_unshell_1": {
+    "subtitle": "subtitles.laevatein.matthias_unshell_1",
+    "sounds": [
+      {
+        "name": "laevatein:fx/matthias_unshell_1/01"
+      }
+    ]
+  },
+  "matthias_unshell_2": {
+    "subtitle": "subtitles.laevatein.matthias_unshell_2",
+    "sounds": [
+      {
+        "name": "laevatein:fx/matthias_unshell_2/01"
+      }
+    ]
+  },
+  "matthias_unshell_3": {
+    "subtitle": "subtitles.laevatein.matthias_unshell_3",
+    "sounds": [
+      {
+        "name": "laevatein:fx/matthias_unshell_3/01"
+      }
+    ]
+  },
+  "matthias_kick_voice_1": {
+    "subtitle": "subtitles.laevatein.matthias_kick_voice_1",
+    "sounds": [
+      {
+        "name": "laevatein:fx/matthias_kick_voice_1/01"
+      },
+      {
+        "name": "laevatein:fx/matthias_kick_voice_1/02"
+      }
+    ]
+  },
+  "matthias_kick_voice_2": {
+    "subtitle": "subtitles.laevatein.matthias_kick_voice_2",
+    "sounds": [
+      {
+        "name": "laevatein:fx/matthias_kick_voice_2/01"
+      },
+      {
+        "name": "laevatein:fx/matthias_kick_voice_2/02"
+      }
+    ]
+  },
+  "matthias_kick_voice_3": {
+    "subtitle": "subtitles.laevatein.matthias_kick_voice_3",
+    "sounds": [
+      {
+        "name": "laevatein:fx/matthias_kick_voice_3/01"
+      },
+      {
+        "name": "laevatein:fx/matthias_kick_voice_3/02"
+      }
+    ]
+  },
+  "matthias_dash_voice": {
+    "subtitle": "subtitles.laevatein.matthias_dash_voice",
+    "sounds": [
+      {
+        "name": "laevatein:fx/matthias_dash_voice/01"
+      },
+      {
+        "name": "laevatein:fx/matthias_dash_voice/02"
+      }
+    ]
+  },
+  "matthias_pierce_start": {
+    "subtitle": "subtitles.laevatein.matthias_pierce_start",
+    "sounds": [
+      {
+        "name": "laevatein:fx/matthias_pierce_start/01"
+      }
+    ]
+  },
+  "matthias_pierce_end": {
+    "subtitle": "subtitles.laevatein.matthias_pierce_end",
+    "sounds": [
+      {
+        "name": "laevatein:fx/matthias_pierce_end/01"
+      }
+    ]
+  },
+  "seal_hit_outer": {
+    "subtitle": "subtitles.laevatein.seal_hit_outer",
+    "sounds": [
+      {
+        "name": "laevatein:fx/seal_hit_outer/01"
+      },
+      {
+        "name": "laevatein:fx/seal_hit_outer/02"
+      },
+      {
+        "name": "laevatein:fx/seal_hit_outer/03"
+      }
+    ]
+  }
+}

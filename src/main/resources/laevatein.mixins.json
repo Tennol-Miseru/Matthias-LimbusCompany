@@ -1,0 +1,19 @@
+{
+  "required": true,
+  "package": "com.laevatein.mixin",
+  "compatibilityLevel": "JAVA_21",
+  "mixins": [
+    "PlayerLedgerMixin",
+    "PlayerTenacityMixin",
+    "PlayerHeatMixin",
+    "MobGoalSelectorAccessor"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  },
+  "client": [
+    "LaevateinHandLayerMixin",
+    "FirstPersonKickMixin",
+    "LaevateinItemPoseContextMixin"
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "schemaVersion": 1,
+  "id": "laevatein",
+  "version": "${version}",
+  "name": "Matthias-LimbusCompany",
+  "description": "A fully animated Laevatein weapon and Matthias boss encounter inspired by Limbus Company.",
+  "authors": [
+    "天诺"
+  ],
+  "license": "All-Rights-Reserved",
+  "icon": "assets/laevatein/icon.png",
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "com.laevatein.Laevatein"
+    ],
+    "client": [
+      "com.laevatein.client.LaevateinClient"
+    ]
+  },
+  "depends": {
+    "fabricloader": ">=0.16.0",
+    "minecraft": "~1.21.1",
+    "java": ">=21",
+    "fabric-api": "*",
+    "geckolib": ">=4.7",
+    "player_animation_library": "*"
+  },
+  "mixins": [
+    "laevatein.mixins.json"
+  ]
+}
